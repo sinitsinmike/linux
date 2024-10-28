@@ -2,8 +2,8 @@
 Device Tree overlay for SSD1322 SPI controller.
 
 Default pins:
-DC#		 = GPIO5
-RESET# = GPIO6
+DC#		 = GPIO17
+RESET# = GPIO4
 
 */
 
